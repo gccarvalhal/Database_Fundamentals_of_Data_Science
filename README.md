@@ -1,6 +1,6 @@
 # Database Fundamentals of Data Science
 
-**PROJECT DESCRIPTION**: as indicated on the **project_description.pdf**, we’ve followed all the steps designated. 
+**PROJECT DESCRIPTION**: as indicated on the **project_description.pdf**, I’ve followed all the steps designated. 
 1) **Download Files:** all the files have been successfully downloaded.
 
 2)	**Design the Database:**
@@ -18,7 +18,7 @@
 5)	**Ask Questions:**
 
   - Questions a) to e) asked and answered using SQL (**question.sql** file stored at zip file).
-  - Extra points: Think of other interesting questions to ask. We decided to answer the following question: “WHAT ARE THE CPLP (Comunidade dos Países de Língua Portuguesa) RANK VARIATION (Angola, Brazil, Cape Verde, Guinea-Bissau, Equatorial Guinea, Mozambique, Portugal, Sao Tome & Principe, East Timor)?”. It’s stored as **extra_questions.sql**
+  - Extra points: Think of other interesting questions to ask. I decided to answer the following question: “WHAT ARE THE CPLP (Comunidade dos Países de Língua Portuguesa) and RANK VARIATION (Angola, Brazil, Cape Verde, Guinea-Bissau, Equatorial Guinea, Mozambique, Portugal, Sao Tome & Principe, East Timor)?”. It’s stored as **extra_questions.sql**
 
 6)	**Extra:**
 
