@@ -1,6 +1,6 @@
 # Database_Fundamentals_of_Data_Science
 
-PROJECT DESCRIPTION: as indicated on the Project file available at Moodle, we’ve followed all the steps designated. 
+**PROJECT DESCRIPTION:** as indicated on the **project_description.pdf**, we’ve followed all the steps designated. 
 1)	Download Files: all the files have been successfully downloaded. 
 2)	Design the Database: 
 a.	Uml created and stored at the zip file as uml.png
